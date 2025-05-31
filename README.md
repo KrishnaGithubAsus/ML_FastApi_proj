@@ -2,7 +2,7 @@
 
 concurrently "uvicorn app_api:app --reload" "streamlit run FrontApp.py"
 
-# ==========================   PROJECT DESCRIPTION    ============================
+# ========   PROJECT DESCRIPTION    ========
 
 # Insurance Purchase Prediction Application
 
