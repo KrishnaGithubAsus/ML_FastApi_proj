@@ -1,0 +1,10 @@
+fastapi 
+uvicorn[standard] 
+scikit-learn 
+pandas 
+numpy
+pydantic
+scikit-learn
+streamlit
+requests
+concurrently
